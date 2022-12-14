@@ -1,0 +1,33 @@
+body{
+    background-color:rosybrown;
+    
+}
+div{
+    text-align: center;
+    padding: 50px;
+    
+}
+div input[type=number]{
+    width: 100%;
+    padding: 10px;
+    font-size: large;
+    text-align: center;
+
+    
+}
+div button{
+    margin-right:50px;
+    padding: 20px;
+    width:20%;
+    border: 2px;
+    font-size: large;
+    cursor:pointer ;
+    background-color:rgb(162, 219, 221);
+    
+}
+.nab{
+    background-color:khaki;
+    border: 1px;
+}
+
+
